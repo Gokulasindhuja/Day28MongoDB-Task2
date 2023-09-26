@@ -5,32 +5,32 @@
 db.users.insertMany([
   {
     userid: 1,
-    name: "Harikrishna",
-    email: "hari@gmail.com",
+    name: "Haritha",
+    email: "haritha@gmail.com",
     mentorid: 1,
   },
   {
     userid: 2,
-    name: "KaviArasan",
-    email: "kavi@gmail.com",
+    name: "Kavitha",
+    email: "kavitha@gmail.com",
     mentorid: 2,
   },
   {
     userid: 3,
-    name: "Manimaran",
-    email: "mani@gmail.com",
+    name: "Maina",
+    email: "maina@gmail.com",
     mentorid: 3,
   },
   {
     userid: 4,
-    name: "Subash",
-    email: "subash@gmail.com",
+    name: "Subasri",
+    email: "subasri@gmail.com",
     mentorid: 1,
   },
   {
     userid: 5,
-    name: "ItachiUchika",
-    email: "itachu@gmail.com",
+    name: "kavya",
+    email: "kavya@gmail.com",
     mentorid: 2,
   },
 ]);
@@ -173,13 +173,13 @@ db.attendance.insertMany([
 db.mentors.insertMany([
   {
     mentorid: 1,
-    mentorname: "Naruto",
-    mentor_email: "naruto@gmail.com",
+    mentorname: "Neru",
+    mentor_email: "neru@gmail.com",
   },
   {
     mentorid: 2,
-    mentorname: "Sasuke",
-    mentor_email: "sasuke@gmail.com",
+    mentorname: "Sangeetha",
+    mentor_email: "sangeetha@gmail.com",
   },
   {
     mentorid: 3,
@@ -188,13 +188,13 @@ db.mentors.insertMany([
   },
   {
     mentorid: 4,
-    mentorname: "Minato",
-    mentor_email: "minato@gmail.com",
+    mentorname: "Micle",
+    mentor_email: "micle@gmail.com",
   },
   {
     mentorid: 5,
-    mentorname: "sakura",
-    mentor_email: "sakura@gmail.com",
+    mentorname: "sakathi",
+    mentor_email: "sakthi@gmail.com",
   },
 ]);
 
